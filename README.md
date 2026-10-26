@@ -24,57 +24,6 @@
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-
-<div align="center">
-
-## ✦ A Little About Me ✦
-
-*Curious mind. Creative problem-solver. Software enthusiast.*
-
-</div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### 🌷 Hello, world!
-
-I'm Tharushi, a Computer Science undergraduate from Sri Lanka with a passion for building **reliable, maintainable, and meaningful software**.
-
-My world revolves around the .NET ecosystem, backend architecture, clean code, and understanding how technology can solve real-world problems.
-
-Beyond writing code, I enjoy exploring the connection between **business requirements and software engineering** — transforming ideas into solutions that make sense for both users and developers.
-
-I believe great software isn't just about making things work. It's about making them work beautifully, reliably, and sustainably. 💜
-
-</td>
-<td width="42%" valign="top">
-
-### ✨ My Developer Universe
-
-<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-8e7cf3?style=flat-square" alt="Backend engineering focus"/>
-
-<img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Maintainable-667eea?style=flat-square" alt="Clean architecture"/>
-
-<img src="https://img.shields.io/badge/Approach-Curious%20%26%20Analytical-e0aaff?style=flat-square" alt="Analytical approach"/>
-
-<img src="https://img.shields.io/badge/Currently-.NET%20%7C%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET and C sharp"/>
-
-<img src="https://img.shields.io/badge/Location-Sri%20Lanka-6c63ff?style=flat-square" alt="Sri Lanka"/>
-
-<br/>
-
-**My little philosophy**
-
-> 💫 Learn with curiosity. Build with intention. Improve with every commit.
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
@@ -120,59 +69,6 @@ I believe great software isn't just about making things work. It's about making 
 *Expanding my frontend knowledge while strengthening my backend engineering foundations.*
 
 </div>
-
----
-
-<!-- ═══════════════════ WHAT I DO ═══════════════════ -->
-
-<div align="center">
-
-## 🎀 What Makes Me, Me?
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Building the Foundation
-
-Creating RESTful APIs, structuring backend services, and exploring maintainable architectures using C# and .NET.
-
-**My happy place:** Clean Architecture · CQRS · MediatR · SQL Server
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Connecting Ideas to Code
-
-Understanding business needs, working with user stories, and helping translate requirements into clear development tasks.
-
-**My superpower:** Bridging business understanding and technical thinking.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Quality Over Shortcuts
-
-Learning to write better code through testing, debugging, SOLID principles, and thoughtful software design.
-
-**My mindset:** Make it work. Make it clear. Make it maintainable.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Growing Beyond Boundaries
-
-Exploring new technologies, learning from others, and looking forward to contributing to meaningful real-world projects.
-
-**My next chapter:** Keep learning, keep creating, keep growing. ✨
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -239,11 +135,7 @@ National Institute of Business Management (NIBM–NIC)
   <img src="https://img.shields.io/badge/Email-Drop%20me%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tharushi"/>
 </a>
 
-<br/><br/>
-
-### 💜 A little reminder
-
-*“Great things are built one thoughtful step at a time.”*
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:8e7cf3,100:e0c3fc&height=110&section=footer" width="100%" alt="Purple wave footer"/>
 
